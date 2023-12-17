@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto, finance, reading, html, blogging
 - 🌱 I’m currently learning Defi, crypto and english
 - 💞️ I’m looking to collaborate on international finances, Defi
-- 📫 To reach me on Telegramm EvgGood
+- 📫 To reach me on Telegram EvgGood
 
 <!---
 evggood/evggood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
